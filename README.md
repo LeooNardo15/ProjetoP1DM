@@ -1,2 +1,2 @@
 # ProjetoP1DM
-Projeto criado durante as aulas de Programação para Dispositivos Móveis, consiste em um uma aplicação que integra Java e MySQL no BackEnd, e o FrontEnd através de páginas Web JSP(JavaScript Page) 
+O objetivo do projeto foi a criação de ao menos duas tabelas nos MySQL, além de mais uma com a relação entre as duas, o CRUD é feito através do Java com o Front End Web JSP(JavaScript Page).
